@@ -1,0 +1,11 @@
+/* header area css start here  */
+.text-color{
+    color: #31A5AC;
+    font-size: 42px;
+}
+
+/* main body area start here  */
+.bg-color{
+    background-color: #F8F8F8;
+    padding: 50px 10px;
+}
